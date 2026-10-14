@@ -19,7 +19,7 @@ Vim Royale is a pvp vim based multiplayer game. Users can play 1v1 matches again
 - Rating system based on Elo
 - Spectator mode for matches
 - Create and join custom lobbies with your friends
-- Match replay to analyse your movies
+- Match replay to analyse your moves
 - Built-in VimTutor
 - Leaderboard to compete for a spot
 - Code snippets for players to edit and compete on
@@ -51,7 +51,7 @@ cd frontend && npm install && npm run dev
 
 ## Support
 
-If you wish to suport further development of Vim Royale, you can donate via [GitHub Sponsors](https://github.com/sponsors/Jitesh117), [BuyMeACoffee](https://www.buymeacoffee.com/jitesh117) or [PayPal](https://www.paypal.com/paypalme/jitesh1177)
+If you wish to support further development of Vim Royale, you can donate via [GitHub Sponsors](https://github.com/sponsors/Jitesh117), [BuyMeACoffee](https://www.buymeacoffee.com/jitesh117) or [PayPal](https://www.paypal.com/paypalme/jitesh1177)
 
 ## Credits
 
